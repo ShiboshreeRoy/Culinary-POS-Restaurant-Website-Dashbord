@@ -113,9 +113,7 @@ Feel free to check out the [issues page](https://github.com/ShiboshreeRoy/Culina
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+## 📄Open Source
 
 ---
 
